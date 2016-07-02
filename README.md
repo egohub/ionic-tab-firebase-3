@@ -43,3 +43,7 @@ Use following commands :
 - ```cd ionic-tab-firebase-3```
 - ```npm install```
 - ```ionic serve``` or use [lab.ionic.io](http://lab.ionic.io) software
+
+# Thanks
+
+- [Dede Hamzah](https://github.com/dehamzah), for his Ionic 1 template with Firebase 3 and our email exchanges. [His work here](https://github.com/dehamzah/ionic-chat-firebase3-simple)
