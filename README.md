@@ -1,4 +1,5 @@
-# Ionic 1 and Firebase 3
+# Ionic 1 and Firebase 3 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/AurelienWolz)
+
 > This application is still under development, it is functional but your feedback is welcome !
 
 Simple Ionic 1 application running  Firebase 3 backend. With the arrival of the new version of Firebase, it is important to update our applications.
