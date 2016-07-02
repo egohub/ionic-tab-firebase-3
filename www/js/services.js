@@ -9,13 +9,13 @@ angular.module('starter.services', [])
   function($http, $q) {
     // Return public API
     return ({
-      getBiere: getBiere
+      getMethod: getMethod
     });
 
-    function getBiere() {
+    function getMethod() {
       var request = $http({
         method: "get",
-        url: 'https://houblonde-2d4c4.firebaseio.com/biere.json?print=pretty',
+        url: '<url>',
         params: {
           action: "get"
         }
