@@ -12,10 +12,14 @@ angular.module('starter.services', [])
 
 .factory("Firebase", function() {
   var config = {
-    apiKey: "<apiKey>",
-    authDomain: "<authDomain>",
-    databaseURL: "<databaseURL>",
-    storageBucket: "<storageBucket>",
-  };
+    apiKey: "AIzaSyDwxog6Ch1zIHUZrOvfPFDargXD1g7Hfwc",
+    authDomain: "livesoccer-myanmar-e5626.firebaseapp.com",
+    databaseURL: "https://livesoccer-myanmar-e5626.firebaseio.com",
+    projectId: "livesoccer-myanmar-e5626",
+    storageBucket: "livesoccer-myanmar-e5626.appspot.com",
+    messagingSenderId: "388233726671"
+  };
+ 
   return firebase.initializeApp(config);
 });
+
